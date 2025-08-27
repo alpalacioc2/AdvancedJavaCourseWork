@@ -1,0 +1,2 @@
+Name: John Doe | Age: 25 | Email: johndoe@example.com
+Name: Jane Smith | Age: 30 | Email: janesmith@example.com
